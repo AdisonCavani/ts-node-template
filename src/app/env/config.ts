@@ -1,5 +1,5 @@
 import dotenv from "dotenv";
-import { configSchema } from "./config";
+import { configSchema } from "./schema";
 
 dotenv.config();
 
